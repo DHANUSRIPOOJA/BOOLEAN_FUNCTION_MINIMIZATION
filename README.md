@@ -82,3 +82,7 @@ Boolen function minimization f2
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
+**DEVELOPED BY: K DHANUSRI POOJA**
+
+**REGISTRATION NO: 24011393**
+
